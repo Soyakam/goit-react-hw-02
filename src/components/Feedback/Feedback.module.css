@@ -1,0 +1,9 @@
+.FeedbackContainer {
+  font-size: 25px;
+  margin-top: 8px;
+  margin-left: 16px;
+  list-style-type: none;
+}
+:root {
+  margin-top: 50px;
+}

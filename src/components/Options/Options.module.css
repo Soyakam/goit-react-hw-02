@@ -1,0 +1,6 @@
+.wrapperButtons {
+  .wrapper {
+    display: flex;
+    gap: 12px;
+  }
+}
